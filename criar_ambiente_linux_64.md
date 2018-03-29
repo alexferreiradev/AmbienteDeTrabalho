@@ -3,3 +3,5 @@
 Programas instalados:
 * indicator-multiload: monitoramento do uso de recursos da máquina
 * Psensor: monitoramento da temperatura de recursos da máquina
+* p7zip-full: criar arquivos compactados
+
