@@ -5,5 +5,6 @@ Programas instalados:
 * Psensor: monitoramento da temperatura de recursos da máquina
 * p7zip-full: criar arquivos compactados
 * glipper: gerenciamento de area de transferencia
+* shutter: realizar facilmente prints com edicao e selecao de tela
 
 
